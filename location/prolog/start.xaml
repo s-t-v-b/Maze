@@ -1,0 +1,16 @@
+﻿<Window x:Class="Maze.location.prolog.start"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Maze.location.prolog"
+        mc:Ignorable="d"
+        Title="start" Height="450" Width="500">
+    <Grid>
+        <Button Name="Town" Content="Селение" HorizontalAlignment="Left" Margin="77,287,0,0" VerticalAlignment="Top" Width="75" Visibility="Hidden"/>
+        <Button Name="Forest" Content="Лес" HorizontalAlignment="Left" Margin="172,287,0,0" VerticalAlignment="Top" Width="75" Visibility="Hidden"/>
+        <Button Name="Conti" Content="Продолжить" HorizontalAlignment="Left" Margin="265,287,0,0" VerticalAlignment="Top" Width="75" Click="Conti_Click"/>
+        <TextBox Name="prol_tb" HorizontalAlignment="Left" Height="140" Margin="77,142,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="383" TextChanged="Prol_tb_TextChanged" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="Maze.create_states"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Maze"
+        mc:Ignorable="d"
+        Title="create_states" Height="450" Width="300">
+    <Grid>
+        <TextBox Name="str_tb" HorizontalAlignment="Left" Height="23" Margin="157,90,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="35"/>
+        <TextBox Name="vit_tb" HorizontalAlignment="Left" Height="24" Margin="157,121,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="35"/>
+        <TextBox Name="lvk_tb" HorizontalAlignment="Left" Height="23" Margin="157,153,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="35"/>
+        <TextBox Name="int_tb" HorizontalAlignment="Left" Height="24" Margin="157,181,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="35"/>
+        <TextBox Name="vis_tb" HorizontalAlignment="Left" Height="23" Margin="157,216,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="35"/>
+        <TextBox Name="luc_tb" HorizontalAlignment="Left" Height="24" Margin="157,244,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="35"/>
+        <Label Content="Сила" HorizontalAlignment="Left" Margin="13,89,0,0" VerticalAlignment="Top"/>
+        <Label Content="Выносливость" HorizontalAlignment="Left" Margin="13,120,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,-0.308"/>
+        <Label Content="Ловкость" HorizontalAlignment="Left" Margin="13,151,0,0" VerticalAlignment="Top"/>
+        <Label Content="Интелект" HorizontalAlignment="Left" Margin="13,182,0,0" VerticalAlignment="Top"/>
+        <Label Content="Мудрость" HorizontalAlignment="Left" Margin="13,213,0,0" VerticalAlignment="Top"/>
+        <Label Content="Удача" HorizontalAlignment="Left" Margin="13,242,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="free_tb" HorizontalAlignment="Left" Height="23" Margin="157,276,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="35"/>
+        <Label Content="Свободные" HorizontalAlignment="Left" Margin="13,273,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="create_stste_b" Content="Button" HorizontalAlignment="Left" Margin="117,313,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Name="luc_up" Content=">" HorizontalAlignment="Left" Margin="207,243,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Luc_up_Click"/>
+        <Button Name="vis_up" Content="&gt;" HorizontalAlignment="Left" Margin="207,216,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Vis_up_Click"/>
+        <Button Name="int_up" Content="&gt;" HorizontalAlignment="Left" Margin="207,185,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Int_up_Click"/>
+        <Button Name="lvk_up" Content="&gt;" HorizontalAlignment="Left" Margin="207,156,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Lvk_up_Click"/>
+        <Button Name="vin_up" Content="&gt;" HorizontalAlignment="Left" Margin="207,123,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Vin_up_Click"/>
+        <Button Name="str_up" Content="&gt;" HorizontalAlignment="Left" Margin="207,93,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Str_up_Click"/>
+        <Button Name="luc_down" Content="&lt;" HorizontalAlignment="Left" Margin="117,243,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Luc_down_Click"/>
+        <Button Name="vis_down" Content="&lt;" HorizontalAlignment="Left" Margin="117,216,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Vis_down_Click"/>
+        <Button Name="int_down" Content="&lt;" HorizontalAlignment="Left" Margin="117,185,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Int_down_Click"/>
+        <Button Name="lvk_down" Content="&lt;" HorizontalAlignment="Left" Margin="117,156,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Lvk_down_Click"/>
+        <Button Name="vit_down" Content="&lt;" HorizontalAlignment="Left" Margin="117,123,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Vit_down_Click"/>
+        <Button Name="str_down" Content="&lt;" HorizontalAlignment="Left" Margin="117,93,0,0" VerticalAlignment="Top" Width="20" RenderTransformOrigin="0.65,-1.25" Click="Str_down_Click"/>
+
+    </Grid>
+</Window>

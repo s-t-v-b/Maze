@@ -1,0 +1,124 @@
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\App.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze_MarkupCompile.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze_MarkupCompile.lref
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze.g.resources
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\create.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\location\Town.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\MainWindow.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\menu.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Registration.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\create.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\location\Town.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\MainWindow.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\menu.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Registration.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\bin\Debug\Prot_Maze.mdf
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\bin\Debug\Prot_Maze_log.ldf
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\hero_state\invent.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\hero_state\jurnal.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\hero_state\state.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\location\prolog\start.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\Maze_Content.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\hero_state\invent.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\hero_state\jurnal.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\hero_state\state.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\Новая папка\Maze\Maze\obj\Debug\location\prolog\start.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\bin\Debug\Prot_Maze.mdf
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\bin\Debug\Prot_Maze_log.ldf
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\create.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\hero_state\invent.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\hero_state\jurnal.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\hero_state\state.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\location\prolog\start.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\location\Town.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\MainWindow.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\menu.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Registration.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\App.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze_Content.g.cs
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze_MarkupCompile.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze_MarkupCompile.lref
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\create.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\hero_state\invent.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\hero_state\jurnal.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\hero_state\state.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\location\prolog\start.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\location\Town.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\MainWindow.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\menu.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Registration.baml
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze.g.resources
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\Laith_GN\Desktop\LL 1.0\vbv\Maze\Maze\obj\Debug\Maze.pdb
+H:\vbv\Maze\Maze\bin\Debug\Maze.exe.config
+H:\vbv\Maze\Maze\bin\Debug\Maze.exe
+H:\vbv\Maze\Maze\bin\Debug\Maze.pdb
+H:\vbv\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+H:\vbv\Maze\Maze\obj\Debug\create.g.cs
+H:\vbv\Maze\Maze\obj\Debug\hero_state\invent.g.cs
+H:\vbv\Maze\Maze\obj\Debug\hero_state\jurnal.g.cs
+H:\vbv\Maze\Maze\obj\Debug\hero_state\state.g.cs
+H:\vbv\Maze\Maze\obj\Debug\location\prolog\start.g.cs
+H:\vbv\Maze\Maze\obj\Debug\location\Town.g.cs
+H:\vbv\Maze\Maze\obj\Debug\MainWindow.g.cs
+H:\vbv\Maze\Maze\obj\Debug\App.g.cs
+H:\vbv\Maze\Maze\obj\Debug\Maze_MarkupCompile.cache
+H:\vbv\Maze\Maze\obj\Debug\Maze_MarkupCompile.lref
+H:\vbv\Maze\Maze\obj\Debug\create.baml
+H:\vbv\Maze\Maze\obj\Debug\hero_state\invent.baml
+H:\vbv\Maze\Maze\obj\Debug\hero_state\jurnal.baml
+H:\vbv\Maze\Maze\obj\Debug\hero_state\state.baml
+H:\vbv\Maze\Maze\obj\Debug\location\prolog\start.baml
+H:\vbv\Maze\Maze\obj\Debug\location\Town.baml
+H:\vbv\Maze\Maze\obj\Debug\MainWindow.baml
+H:\vbv\Maze\Maze\obj\Debug\Maze.g.resources
+H:\vbv\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+H:\vbv\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+H:\vbv\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+H:\vbv\Maze\Maze\obj\Debug\Maze.exe
+H:\vbv\Maze\Maze\obj\Debug\Maze.pdb
+D:\vbv\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+D:\vbv\Maze\Maze\obj\Debug\create.g.cs
+D:\vbv\Maze\Maze\obj\Debug\hero_state\invent.g.cs
+D:\vbv\Maze\Maze\obj\Debug\hero_state\jurnal.g.cs
+D:\vbv\Maze\Maze\obj\Debug\hero_state\state.g.cs
+D:\vbv\Maze\Maze\obj\Debug\location\prolog\start.g.cs
+D:\vbv\Maze\Maze\obj\Debug\location\Town.g.cs
+D:\vbv\Maze\Maze\obj\Debug\MainWindow.g.cs
+D:\vbv\Maze\Maze\obj\Debug\App.g.cs
+D:\vbv\Maze\Maze\obj\Debug\Maze_MarkupCompile.cache
+D:\vbv\Maze\Maze\obj\Debug\Maze_MarkupCompile.lref
+D:\vbv\Maze\Maze\obj\Debug\Maze.exe
+D:\vbv\Maze\Maze\obj\Debug\Maze.pdb
+D:\vbv\Maze\Maze\bin\Debug\Maze.exe.config
+D:\vbv\Maze\Maze\bin\Debug\Maze.exe
+D:\vbv\Maze\Maze\bin\Debug\Maze.pdb
+D:\vbv\Maze\Maze\obj\Debug\create.baml
+D:\vbv\Maze\Maze\obj\Debug\hero_state\invent.baml
+D:\vbv\Maze\Maze\obj\Debug\hero_state\jurnal.baml
+D:\vbv\Maze\Maze\obj\Debug\hero_state\state.baml
+D:\vbv\Maze\Maze\obj\Debug\location\prolog\start.baml
+D:\vbv\Maze\Maze\obj\Debug\location\Town.baml
+D:\vbv\Maze\Maze\obj\Debug\MainWindow.baml
+D:\vbv\Maze\Maze\obj\Debug\Maze.g.resources
+D:\vbv\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+D:\vbv\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+D:\vbv\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+H:\vbv\Maze\Maze\obj\Debug\create_states.g.cs
+H:\vbv\Maze\Maze\obj\Debug\create_states.baml

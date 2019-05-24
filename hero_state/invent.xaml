@@ -1,0 +1,41 @@
+﻿<Window x:Class="Maze.hero_state.invent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Maze.hero_state"
+        mc:Ignorable="d"
+        Title="invent" Height="350" Width="450">
+    <Grid>
+        <Label x:Name="socet1" Content="Label" HorizontalAlignment="Left" Height="27" Margin="26,48,0,0" VerticalAlignment="Top" Width="70"/>
+        <Button x:Name="b_socet1" Content="Button" HorizontalAlignment="Left" Margin="101,51,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet2" Content="Label" HorizontalAlignment="Left" Margin="26,80,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="b_socet2" Content="Button" HorizontalAlignment="Left" Margin="101,86,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet3" Content="Label" HorizontalAlignment="Left" Height="27" Margin="26,115,0,0" VerticalAlignment="Top" Width="70"/>
+        <Button x:Name="b_socet3" Content="Button" HorizontalAlignment="Left" Margin="101,118,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet4" Content="Label" HorizontalAlignment="Left" Margin="26,147,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="b_soce4" Content="Button" HorizontalAlignment="Left" Margin="101,153,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet5" Content="Label" HorizontalAlignment="Left" Height="27" Margin="26,178,0,0" VerticalAlignment="Top" Width="70"/>
+        <Button x:Name="b_socet5" Content="Button" HorizontalAlignment="Left" Margin="101,181,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet6" Content="Label" HorizontalAlignment="Left" Margin="26,210,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="b_socet6" Content="Button" HorizontalAlignment="Left" Margin="101,216,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet7" Content="Label" HorizontalAlignment="Left" Height="27" Margin="257,50,0,0" VerticalAlignment="Top" Width="70"/>
+        <Button x:Name="b_socet7" Content="Button" HorizontalAlignment="Left" Margin="332,53,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet8" Content="Label" HorizontalAlignment="Left" Margin="257,82,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="b_socet8" Content="Button" HorizontalAlignment="Left" Margin="332,88,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.511"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="socet9" Content="Label" HorizontalAlignment="Left" Height="27" Margin="257,120,0,0" VerticalAlignment="Top" Width="70"/>
+        <Button x:Name="b_socet9" Content="Button" HorizontalAlignment="Left" Margin="332,123,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="socet10" Content="Label" HorizontalAlignment="Left" Margin="257,152,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="b_socet10" Content="Button" HorizontalAlignment="Left" Margin="332,158,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="exit" Content="Button" HorizontalAlignment="Left" Margin="295,205,0,0" VerticalAlignment="Top" Width="75" Click="Exit_Click"/>
+    </Grid>
+</Window>
